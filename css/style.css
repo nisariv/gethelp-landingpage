@@ -134,7 +134,11 @@ font-size: 20px;
 #conoce h6{
 	text-align: center;
 	font-size: 22px;
-	margin-top: 5%;
+	margin-top: 4%;
+}
+
+i{
+	font-size: 22px;
 }
 
 #agenda{
